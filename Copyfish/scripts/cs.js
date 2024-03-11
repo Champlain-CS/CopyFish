@@ -185,7 +185,7 @@
 		let $body;
 		var maskString = [
 			'<div class="ocrext-element ocrext-mask">',
-			'<p class="ocrext-element">Please select text to grab.</p>',
+			'<p class="ocrext-element">.</p>',
 			'<div class="ocrext-overlay-corner ocrext-corner-tl"></div>',
 			'<div class="ocrext-overlay-corner ocrext-corner-tr"></div>',
 			'<div class="ocrext-overlay-corner ocrext-corner-br"></div>',
@@ -313,8 +313,8 @@
 		var $body;
 		var $MASK;
 		var maskString = [
-			'<div class="ocrext-element ocrext-mask">',
-			'<p class="ocrext-element">Please select text to grab.</p>',
+			// '<div class="ocrext-element ocrext-mask">',
+			'<p class="ocrext-element"></p>',
 			'<div class="ocrext-overlay-corner ocrext-corner-tl"></div>',
 			'<div class="ocrext-overlay-corner ocrext-corner-tr"></div>',
 			'<div class="ocrext-overlay-corner ocrext-corner-br"></div>',
