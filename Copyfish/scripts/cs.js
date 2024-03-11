@@ -340,10 +340,10 @@
 							display: 'none'
 						});
 					$MASK.appendTo($body);
-					// tl = $('.ocrext-corner-tl');
-					// tr = $('.ocrext-corner-tr');
-					// br = $('.ocrext-corner-br');
-					// bl = $('.ocrext-corner-bl');
+					tl = $('.ocrext-corner-tl');
+					tr = $('.ocrext-corner-tr');
+					br = $('.ocrext-corner-br');
+					bl = $('.ocrext-corner-bl');
 					this.resetPosition();
 					return this;
 				}
