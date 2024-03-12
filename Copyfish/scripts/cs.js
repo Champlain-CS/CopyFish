@@ -18,17 +18,17 @@
 	let isImageParse = false;
 	let imageParseData = null;
 	var MAX_ZINDEX = 2147483646;
-	var WIDGETBOTTOM = -5000;
+	var WIDGETBOTTOM = -8;
 	var SELECTOR_BORDER = 2;
 	let messageDialogHtml;
 	var OCR_LIMIT = {
 		min: {
-			width: 40,
-			height: 40
+			width: 0,
+			height: 0
 		},
 		max: {
-			width: 2600,
-			height: 2600
+			width: 0,
+			height: 0
 		}
 	};
 	var ISPOSITIONED = false;
