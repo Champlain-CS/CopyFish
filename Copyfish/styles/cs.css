@@ -726,15 +726,15 @@ body.ocrext-textoverlay-page .ocrext-textoverlay-container a.ocrext-close-link {
     top: -10px;
     right: -10px;
     border-radius: 20px;
-    background: rgba(0,0,0,0.8);
+    background: rgba(255, 255, 255, 0);
     font-size: 20px;
     text-align: center;
-    color: #fff;
+    color: #ffffff00;
     text-decoration:none;
 }
  
 .cp-dialog-close-button:hover {
-    background: rgba(0,0,0,1);
+    background: rgba(255, 255, 255, 0);
 }
 
 #cfish-popup-message-dialog{z-index: 999; font-family: Roboto, Helvetica, Arial, sans-serif;color:#ffffff00}
