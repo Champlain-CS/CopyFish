@@ -18,7 +18,7 @@
 	let isImageParse = false;
 	let imageParseData = null;
 	var MAX_ZINDEX = 2147483646;
-	var WIDGETBOTTOM = -1000;
+	var WIDGETBOTTOM = -5000;
 	var SELECTOR_BORDER = 2;
 	let messageDialogHtml;
 	var OCR_LIMIT = {
